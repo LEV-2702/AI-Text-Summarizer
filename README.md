@@ -12,5 +12,5 @@ A Flask-based AI app that summarizes any pasted text using OpenAI GPT.
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/ai_text_summarizer.git
+git clone https://github.com/LEV-2702/AI-Text-Summarizer.git
 cd ai_text_summarizer
